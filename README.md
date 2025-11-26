@@ -23,8 +23,6 @@ A modern productivity and finance management web application featuring an advanc
 - Browser notifications
 - Visual badges for pending tasks
 
-
-
 ---
 
 ## 🌈 UI & Design
@@ -36,6 +34,6 @@ A modern productivity and finance management web application featuring an advanc
 ---
 
 ## 🛠️ Tech Stack
-- ** Vite** (যেটা আপনি ব্যবহার করেছেন)
+- ** Vite** 
 - **Tailwind CSS**
 - **Local Storage **
